@@ -1,0 +1,43 @@
+main{
+    margin-left: 400px;
+    padding-top: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+ul{
+    text-align: center;
+    
+}
+body{width: 1160px;
+     height: auto;
+}
+header{text-align: center;}
+nav{text-align: center;}
+
+img{
+    border-radius: 50%;
+}
+
+h3{
+    text-align:left ;
+    margin-left: 30px;
+    font-weight: bold;
+    color: black;
+}
+h4{
+    text-align:  left;
+    margin-left: 30px;
+    
+}
+h5{
+    text-align: center;
+    margin-left: 30px;
+}
+li{
+    text-align: left;
+    margin-left: 30px;
+}
+
+footer{
+    text-align: center;
+}
